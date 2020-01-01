@@ -11,7 +11,7 @@
 #                                                        \$$    $$                                                  
 #                                                         \$$$$$$                                                   
 # by Benjamin Santiago
-# little looping animation that displays a colorful smokey
+# little looping animation that displays text with a colorful smokey
 # "tail" that moves in a sinusoidal fashion 
 # this sketches uses the typeface Gooper by Very Cool Studio
 # (variable names and comments expanded for clarity)
